@@ -1,4 +1,4 @@
 # Website-for-Scratch-projects
 Just some website I made on Replit but am now moving it to github.
-# WILL BE RELEASED SOON!
--Drag00nKnight999
+#NOTICE:
+Some things may not work properly as this was originally made in Replit.
